@@ -24,7 +24,7 @@ export default {
     return {
       mapStyle: 'mapbox://styles/mapbox/streets-v11',
       coordinates: [-111.549668, 39.014],
-      mapboxAccessToken: 'pk.eyJ1IjoibWlmdGFraHVubnVydWRpbiIsImEiOiJja21vZjh6cG0yNDZoMm5zN2p2dnpoNjJxIn0.yBQe0h5wnRzVoUhou5AAWw'
+      mapboxAccessToken: 'pk.eyJ1IjoibWlmdGFraHVubnVydWRpbiIsImEiOiJja212eGd1eTIwOWplMm9xaXQ0ejg1c3gzIn0.AF_yunCfiTcgJ-IwuqBLMw'
     }
   },
   methods: {
